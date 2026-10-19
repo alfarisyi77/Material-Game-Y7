@@ -1,0 +1,6 @@
+{
+  "name": "CyberSiswa - Petualangan Sistem Komputer SMP",
+  "description": "Media pembelajaran interaktif dan gamifikasi Sistem Komputer kelas 7: Siklus IPO, Hardware, Software, Brainware dengan Game Pengelompokan & Alur Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
